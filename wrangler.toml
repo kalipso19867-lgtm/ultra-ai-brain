@@ -1,0 +1,6 @@
+name = "ultra-ai-brain"
+compatibility_date = "2026-11-19"
+pages_build_output_dir = "./public"
+
+[ai]
+binding = "AI"
